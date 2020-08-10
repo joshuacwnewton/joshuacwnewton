@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a software engineer with a B.Eng in electrical engineering and a background in computer vision research. I contribute full-time to open source Python data science projects.
+I'm a software engineer with a B.Eng in electrical engineering and a background in computer vision research. I contribute full-time to open source data science projects written in Python.
 
 <!--
 **joshuacwnewton/joshuacwnewton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
